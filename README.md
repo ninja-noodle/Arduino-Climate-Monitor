@@ -10,7 +10,7 @@ A microcontroller-based environmental monitoring station that tracks room temper
 * Breadboard and jumper wires
 
 ## Circuit Diagram
-![Circuit Schematic](schematic.jpg)
+![Circuit Schematic](schematic.png)
 
 ## Code Overview
 The Arduino script reads temperature and humidity data from the DHT11 sensor every two seconds. It evaluates the humidity levels against predefined safety thresholds and dynamically switches between the green, yellow, and red LEDs to indicate air quality status.
