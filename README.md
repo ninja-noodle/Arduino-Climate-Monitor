@@ -6,7 +6,7 @@ A microcontroller-based environmental monitoring station that tracks room temper
 * Arduino Uno (3rd party)
 * DHT11 Temperature & Humidity Sensor Module
 * 3x LEDs (Green, Yellow, Red)
-* 3x Resistors (10kOhms)
+* 3x Resistors (220Ohms)
 * Breadboard and jumper wires
 
 ## Circuit Diagram
